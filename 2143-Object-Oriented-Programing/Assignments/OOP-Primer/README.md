@@ -1,4 +1,4 @@
 ## Basic OOP Terminology
-- [Abstraction](
+- [Abstraction](Abstraction.md)
 #### Encapsulation
 #### Polymorphism
