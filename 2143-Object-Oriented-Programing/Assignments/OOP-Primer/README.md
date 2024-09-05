@@ -1,4 +1,4 @@
 ## Basic OOP Terminology
-#### Abstraction
+- [Abstraction](
 #### Encapsulation
 #### Polymorphism
