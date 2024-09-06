@@ -3,5 +3,5 @@
 - 2143 OOP
 
 ### Definition
-> "The bundling of data with the mechanisms or methods that operate on the data"  
+> "Reducing dependencies between objects by hiding the internal representation of an object behind specific methods"  
 > Limits access to certain data based on the information needed
