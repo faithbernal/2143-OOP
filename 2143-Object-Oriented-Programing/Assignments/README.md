@@ -2,6 +2,6 @@
 
 |  #  | Folder Link | Assignment Description |
 | :-: | ----------- | ---------------------- |
-|  1  | [A05](2143-Object-Oriented-Programing/Assignments/A05) | [WSL instalation](2143-Object-Oriented-Programing/Assignments/A05) |
-|  2  | [P02A]() | [Ncurses instalation]()  |
-|  3  | [OOP-Primer]() | [Definitions]()      |
+|  1  | [A05](2143-Object-Oriented-Programing/Assignments/A05/README.md) | [WSL instalation](2143-Object-Oriented-Programing/Assignments/A05/README.md) |
+|  2  | [P02A](2143-Object-Oriented-Programing/Assignments/P02A/README.md) | [Ncurses instalation](2143-Object-Oriented-Programing/Assignments/P02A/README.md)  |
+|  3  | [OOP-Primer](2143-Object-Oriented-Programing/Assignments/OOP-Primer/README.md) | [Definitions](2143-Object-Oriented-Programing/Assignments/OOP-Primer/README.md)      |
